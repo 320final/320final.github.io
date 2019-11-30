@@ -87,43 +87,43 @@ for state in states:
             with open(output, 'wb') as f:
                 f.write(str(soup).encode())
 
-#     data_dict = []
+    data_dict = []
 
-#     for i in range(0,20):
-#         print(i)
-#         with open('{}page.json'.format(i), 'r', encoding="utf8") as file:
-#             data = json.load(file)
+    for i in range(0,20):
+        print(i)
+        with open('{}page.json'.format(i), 'r', encoding="utf8") as file:
+            data = json.load(file)
 
-#         print(data)
-#         if i == 0:
-#             print("yo")
-#             homes = data.get('explore_tabs')[0].get('sections')[1].get('listings')
-#         else:
-#             homes = data.get('explore_tabs')[0].get('sections')[0].get('listings')
-#             print("fo")
-#         for home in homes:
-#             obj = {
-#                 "room_id": "{}".format(str(home.get('listing').get('id'))),
-#                 "name": "{}".format(str(home.get('listing').get('name'))),
-#                 "neighborhood": "{}".format(home.get('listing').get('neighborhood')),
-#                 "person_cap": "{}".format(home.get('listing').get('person_capacity')),
-#                 "bedrooms": "{}".format(home.get('listing').get('beds')),
-#                 "bathrooms": "{}".format(home.get('listing').get('bathrooms')),
-#                 "amenities": "{}".format(home.get('listing').get('preview_amenities')),
-#                 "reviews": "{}".format(home.get('listing').get('reviews_count')),
-#                 "prop_type": "{}".format(home.get('listing').get('room_and_property_type')),
-#                 "guests": "{}".format(home.get('listing').get('guest_label')),
-#                 "star": "{}".format(home.get('listing').get('star_rating')),
-#                 "avg_rating": "{}".format(home.get('listing').get('avg_rating')),
-#                 "min_nights": "{}".format(home.get('listing').get('min_nights')),
-#                 "max_nights": "{}".format(home.get('listing').get('max_nights')),
-#                 "price": "{}".format(home.get('pricing_quote').get('rate').get('amount'))
-#             }
-#             data_dict.append(obj)
-# f = open("sample.csv", "w", encoding='utf-8')
-# writer = csv.DictWriter(
-#     f, fieldnames=["room_id", "name", "neighborhood", "person_cap", "bedrooms", "bathrooms",
-#     "amenities", "reviews", "prop_type", "guests", "star", "avg_rating", "min_nights",
-#     "max_nights", "price"])
-# writer.writeheader()
-# writer.writerows(data_dict)
+        print(data)
+        if i == 0:
+            print("yo")
+            homes = data.get('explore_tabs')[0].get('sections')[1].get('listings')
+        else:
+            homes = data.get('explore_tabs')[0].get('sections')[0].get('listings')
+            print("fo")
+        for home in homes:
+            obj = {
+                "room_id": "{}".format(str(home.get('listing').get('id'))),
+                "name": "{}".format(str(home.get('listing').get('name'))),
+                "neighborhood": "{}".format(home.get('listing').get('neighborhood')),
+                "person_cap": "{}".format(home.get('listing').get('person_capacity')),
+                "bedrooms": "{}".format(home.get('listing').get('beds')),
+                "bathrooms": "{}".format(home.get('listing').get('bathrooms')),
+                "amenities": "{}".format(home.get('listing').get('preview_amenities')),
+                "reviews": "{}".format(home.get('listing').get('reviews_count')),
+                "prop_type": "{}".format(home.get('listing').get('room_and_property_type')),
+                "guests": "{}".format(home.get('listing').get('guest_label')),
+                "star": "{}".format(home.get('listing').get('star_rating')),
+                "avg_rating": "{}".format(home.get('listing').get('avg_rating')),
+                "min_nights": "{}".format(home.get('listing').get('min_nights')),
+                "max_nights": "{}".format(home.get('listing').get('max_nights')),
+                "price": "{}".format(home.get('pricing_quote').get('rate').get('amount'))
+            }
+            data_dict.append(obj)
+f = open("sample.csv", "w", encoding='utf-8')
+writer = csv.DictWriter(
+    f, fieldnames=["room_id", "name", "neighborhood", "person_cap", "bedrooms", "bathrooms",
+    "amenities", "reviews", "prop_type", "guests", "star", "avg_rating", "min_nights",
+    "max_nights", "price"])
+writer.writeheader()
+writer.writerows(data_dict)
