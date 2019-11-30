@@ -1,0 +1,361 @@
+room_id,name,neighborhood,person_cap,bedrooms,bathrooms,amenities,reviews,prop_type,guests,star,avg_rating,min_nights,max_nights,price
+16580,"Sunny, Modern room in East Village!",Alphabet City,1,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",379,Private room in apartment,1 guest,5.0,4.76,1,60,35.0
+21282152,Pop House 4min walk to L train 12mins to Manhattan,Ridgewood,4,2,2.0,"Wifi,Heating,Air conditioning",112,Private room in apartment,4 guests,4.5,4.66,1,25,33.0
+36732625,"Fantastic NYC 2 Bed, corner of Central Park! ★★★★★",Hell's Kitchen,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",3,Entire condominium,4 guests,5.0,5.0,180,1125,91.0
+20685563,Bright &amp; Airy in Highland Park,Brooklyn,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",40,Entire apartment,3 guests,5.0,4.98,30,180,53.0
+834190,Manhattan Lux Loft.Like.Love.Lots.Look !,Manhattan,5,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",578,Private room in loft,5 guests,5.0,4.95,1,29,164.0
+32678719,Enjoy great views of the City in our Deluxe Room!,Times Square/Theatre District,2,1,1.0,"Wifi,Heating,Air conditioning",400,Room in hotel,2 guests,4.5,4.31,1,1125,121.0
+1066769,"Clean Room, Central Location in Manhattan",Manhattan,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",397,Private room in apartment,2 guests,5.0,4.86,1,21,45.0
+31221559,Flatbush Hideaway - Quiet and close to subway!,Flatbush,4,3,1.0,"Wifi,Kitchen,Heating",51,Entire house,4 guests,5.0,4.9,2,14,50.0
+4750486,Sun-drenched 1BD in Upper East Side,Manhattan,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",279,Private room in apartment,2 guests,4.5,4.66,2,1125,50.0
+32317602,LARGE 2 Bedroom Midtown Manhattan Apartment!,Hell's Kitchen,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",18,Entire apartment,4 guests,4.5,4.59,1,1125,124.0
+891117,Private Bedroom in Manhattan,Manhattan,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",627,Private room in apartment,2 guests,4.5,4.33,1,28,49.0
+17157306,Modern Room 20 Minutes to Times Square,None,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",170,Private room in house,2 guests,4.5,4.24,1,1125,24.0
+1583556,Exposed Brick Brownstone Apt!,None,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",177,Entire apartment,2 guests,5.0,4.79,2,1125,89.0
+779561,FULLY Furnished Studio ♥ Manhattan,West Village,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",21,Entire apartment,2 guests,5.0,4.76,30,365,105.0
+3585452,A Beautiful Brownstone Apartment,Manhattan,4,3,1.0,"Wifi,Kitchen,Heating,Air conditioning",319,Entire apartment,4 guests,5.0,4.76,2,30,91.0
+27678634,Brooklyn Chill &amp; Explore,Crown Heights,2,1,1.0,"Wifi,Kitchen",87,Private room in apartment,2 guests,4.5,4.64,2,25,25.0
+31711274,"Contemporary, Cozy  Retreat",Brooklyn,2,1,1.0,"Wifi,Heating,Air conditioning",75,Entire house,2 guests,5.0,4.8,2,1125,65.0
+593292,Penthouse Studio East 50s Terrace,Midtown,2,1,1.0,"Wifi,Heating,Air conditioning",353,Entire apartment,2 guests,4.5,4.53,1,1125,150.0
+6438456,"Private! entire studio, own entrance, private bath",Bushwick,2,1,1.0,"Wifi,Heating,Air conditioning",239,Entire apartment,2 guests,5.0,4.82,1,1124,60.0
+903972,Great Bedroom in Manhattan,Manhattan,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",638,Private room in apartment,2 guests,4.5,4.26,1,28,49.0
+16627548,"""Desirable Deal on The Park""",Manhattan,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",161,Private room in apartment,2 guests,4.5,4.6,1,1125,50.0
+521672,Luxury Loft in Creative &amp; Fun Apt,Williamsburg,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",171,Private room in apartment,2 guests,4.5,4.62,4,60,69.0
+565677,LARGE SUNNY ROOM 15 MIN to NYC !,None,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",338,Private room in apartment,2 guests,5.0,4.83,2,30,49.0
+27584413,Chic Designer Home Guest Studio,Queens,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",91,Entire townhouse,2 guests,5.0,4.9,2,1125,63.0
+17339881,Brownstone Studio,Brooklyn,4,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",138,Entire apartment,4 guests,4.5,4.72,3,29,86.0
+32678720,Great Room in the heart of Times Square!,Times Square/Theatre District,2,1,1.0,"Wifi,Heating,Air conditioning",224,Room in hotel,2 guests,4.0,4.21,1,1125,109.0
+14274403,New York City Getaway; very close to LGA,East Elmhurst,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",109,Entire guest suite,3 guests,5.0,4.85,2,31,10.0
+9167889,A Unique studio apartment,Manhattan,3,3,1.0,"Wifi,Kitchen,Heating,Air conditioning",245,Entire apartment,3 guests,5.0,4.76,2,30,90.0
+858695,Very Large Private Room on quiet st,The Bronx,3,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",313,Private room in apartment,3 guests,4.5,4.57,2,30,30.0
+19638293,Studio Apartment Minutes Away from Times Square,None,2,1,1.0,"Wifi,Heating,Air conditioning",163,Entire apartment,2 guests,4.5,4.7,1,1125,69.0
+10748040,"On Broadway, clean &amp; comfy room",Manhattan,1,1,1.0,"Wifi,Kitchen,Heating",143,Private room in apartment,1 guest,5.0,4.84,3,1125,50.0
+32844588,2 Single Beds ★ Renovated ★ Next to Times Square,Times Square/Theatre District,2,2,1.0,"Wifi,Heating,Air conditioning",52,Room in hotel,2 guests,4.0,4.12,1,1125,90.0
+2062476,A room in private house - 20-35 minutes  from NYC,None,2,0,1.5,"Wifi,Kitchen,Heating",157,Private room in house,2 guests,4.5,4.65,1,5,23.0
+7858468,The Artist's Experience,Hell's Kitchen,1,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",341,Private room in apartment,1 guest,5.0,4.9,1,10,100.0
+4226098,W. 80's Central Park 3 Blocks Walk,Upper West Side,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",341,Private room in apartment,2 guests,4.5,4.64,1,21,74.0
+903947,Beautiful Bedroom in Manhattan,Manhattan,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",622,Private room in apartment,2 guests,4.5,4.34,1,28,49.0
+21620762,1 Bedroom apartment,Manhattan,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",112,Entire apartment,2 guests,5.0,4.95,4,1125,120.0
+4553528,Brownstone Williamsburg room with skylight Create,Williamsburg,1,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",229,Private room in apartment,1 guest,4.5,4.71,1,365,35.0
+19121954,"Central Location, 1 Block from Subway, Great Price",Brooklyn,2,1,2.0,"Wifi,Kitchen,Heating,Air conditioning",207,Private room in apartment,2 guests,4.5,4.63,1,1125,52.0
+14807332,Duplex with Private Bathroom by Times Square,Hell's Kitchen,2,2,1.5,"Wifi,Kitchen,Heating,Air conditioning",352,Private room in apartment,2 guests,5.0,4.77,1,1125,92.0
+24288869,Private Room+Beautiful Private Backyard Near City,Ridgewood,3,2,2.0,"Wifi,Heating,Air conditioning",94,Private room in apartment,3 guests,4.5,4.49,1,25,33.0
+15896529,Bright room with private bathroom and rooftop,Manhattan,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",137,Private room in apartment,2 guests,4.5,4.51,6,60,98.0
+4936023,Nice studio in Midtown Manhattan,Midtown,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",180,Entire apartment,3 guests,4.5,4.66,2,1124,119.0
+20573006,"Cute Quirky Garden apt, NYC adjacent",None,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",148,Entire apartment,4 guests,5.0,4.8,1,90,68.0
+31567374,Classic Brownstone Apt in a Historic Neighborhood,None,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",47,Entire apartment,2 guests,5.0,4.98,2,1125,89.0
+4282178,A Superhost SALE! DELUXE Room!,Brooklyn,3,2,1.0,"Wifi,Heating,Air conditioning",380,Private room in apartment,3 guests,4.5,4.51,1,1125,53.0
+945297,East Village Gay Friendly Dbl Room,Alphabet City,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",449,Private room in apartment,2 guests,5.0,4.73,1,1125,74.0
+26362,"Times Square, Safe, Clean and Cozy!",Hell's Kitchen,1,1,0.5,"Wifi,Kitchen,Heating,Air conditioning",355,Private room in apartment,1 guest,4.5,4.53,2,25,59.0
+16912472,Private East Village Bedroom &amp;Roof Deck(manhattan),East Village,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",235,Private room in apartment,2 guests,4.5,4.68,1,1125,70.0
+8070245,Beautiful room close to Manhattan,None,1,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",426,Private room in townhouse,1 guest,4.5,4.7,1,1125,40.0
+11187722,Midtown Manhattan Hideaway,Hell's Kitchen,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",231,Entire apartment,2 guests,4.5,4.48,2,40,105.0
+133025,Midtown cozy convenient,Kips Bay,1,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",118,Private room in apartment,1 guest,5.0,4.81,4,60,68.0
+1056185,Sunny+Cozy Double bedroom in BKLYN!,Flatbush,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",376,Private room in house,2 guests,5.0,4.8,1,35,51.0
+29960687,Upper West Side Apartment near Central Park,Upper West Side,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",113,Private room in apartment,2 guests,5.0,4.83,1,1125,70.0
+19179615,"HEART OF BROOKLYN, QUEEN BED, 1 BLOCK FROM SUBWAY!",Brooklyn,2,1,2.0,"Wifi,Kitchen,Heating,Air conditioning",232,Private room in apartment,2 guests,4.5,4.58,1,1125,58.0
+21884096,WeLive Wall Street -- Studio Double,Manhattan,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",541,Room in serviced apartment,3 guests,5.0,4.82,1,28,162.0
+8943358,Loved by NYLocals Private Room SoHo,Soho,2,1,1.0,"Wifi,Heating,Air conditioning",254,Private room in apartment,2 guests,4.5,4.59,1,1125,89.0
+3798941,Williamsburg Penthouse Guestroom,Williamsburg,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",421,Private room in apartment,2 guests,4.5,4.67,1,5,70.0
+986727,Manhattan's Best Deal!,Manhattan,6,5,1.0,"Wifi,Kitchen,Heating,Air conditioning",310,Entire apartment,6 guests,4.5,4.55,3,1125,140.0
+1316480,nice room in bedstuy K,Brooklyn,1,0,1.0,"Wifi,Kitchen,Heating,Air conditioning",130,Private room in apartment,1 guest,4.5,4.59,1,29,15.0
+22971913,.Melinda's Place,Crown Heights,3,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",109,Entire apartment,3 guests,5.0,4.82,3,7,65.0
+15718486,Uptown Chic in Hoboken,None,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",184,Entire apartment,2 guests,5.0,4.86,2,1125,130.0
+7269771,CLEAN COZY &amp; COMFY E. VILLAGE PAD,Alphabet City,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",167,Entire apartment,2 guests,4.5,4.26,1,1125,40.0
+63360,Safe cute near subway&amp; Manhattan NY NY retro style,Queens,5,3,1.0,"Wifi,Heating,Air conditioning",456,Entire guest suite,5 guests,4.5,4.64,5,28,69.0
+2310594,Studio Apt. in East Williamsburg,Williamsburg,3,1,1.0,"Wifi,Kitchen,Heating",223,Entire apartment,3 guests,4.5,4.59,4,90,85.0
+12798739,Good Deal! Cozy room Near NYC/EWR,None,2,2,2.0,"Wifi,Kitchen,Heating,Air conditioning",471,Private room in house,2 guests,4.5,4.63,1,1125,29.0
+3831,Cozy Entire Floor of Brownstone,Brooklyn,3,4,1.0,"Wifi,Kitchen,Heating,Air conditioning",293,Entire guest suite,3 guests,4.5,4.48,1,730,85.0
+25460977,Fresh Studio in Brooklyn Townhouse,Crown Heights,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",93,Entire apartment,4 guests,5.0,4.88,2,1125,85.0
+1497024,NYC Brownstone 20 min to the 'American Dream Park',Manhattan,6,3,2.0,"Wifi,Kitchen,Heating,Air conditioning",303,Entire apartment,6 guests,4.5,4.66,2,30,27.0
+17992512,Charming Suite in Historic Home,Stapleton,4,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",211,Entire guest suite,4 guests,5.0,4.88,1,20,56.0
+6958652,Brooklyn Room Available [furnished],Brooklyn,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",44,Private room in apartment,2 guests,4.5,4.66,20,100,55.0
+3513303,Cute Room in Hip South Williamsburg,Williamsburg,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",249,Private room in apartment,2 guests,5.0,4.81,3,1125,70.0
+9590519,Fun Spacious Midtown Apt near U.N. &amp; Central Park,Midtown,5,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",166,Entire apartment,5 guests,5.0,4.75,1,30,120.0
+24525290,Paradise in New York City,Manhattan,6,3,2.0,"Wifi,Kitchen,Heating,Air conditioning",111,Entire apartment,6 guests,5.0,4.82,2,29,27.0
+657217,Prime location near Central Park !!,Upper East Side,2,1,1.0,"Wifi,Heating,Air conditioning",375,Private room in apartment,2 guests,4.5,4.24,1,1125,65.0
+1217318,Williamsburg Penthouse Hideaway,Williamsburg,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",424,Private room in apartment,2 guests,4.5,4.62,1,5,61.0
+15220,Best Location in NYC! TIMES SQUARE!,Hell's Kitchen,1,1,0.5,"Wifi,Kitchen,Heating,Air conditioning",311,Private room in apartment,1 guest,4.5,4.62,2,29,79.0
+21884206,WeLive Wall Street -- Studio Apartment,Manhattan,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",185,Room in serviced apartment,2 guests,5.0,4.83,1,28,120.0
+8899476,"ENTIRE Floor,PRIVATE Bath&amp;Entrance! SUPERHOST :))",Bushwick,4,2,3.0,"Wifi,Kitchen,Heating,Air conditioning",300,Private room in house,4 guests,5.0,4.89,1,1125,58.0
+14070671,"Independent Basement Apt.2 bed  rooms, 1 Bath.",Queens,6,2,1.0,"Wifi,Heating,Air conditioning",208,Entire house,6 guests,5.0,4.91,2,14,55.0
+13584582,Stylish Midtown Retreat,Hell's Kitchen,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",209,Entire apartment,3 guests,4.5,4.54,2,100,105.0
+21593621,"Manhattan, Room w/ 2 Beds Near Central Park &amp;Metro",Manhattan,2,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",189,Private room in apartment,2 guests,4.5,4.66,1,29,50.0
+30737373,Cosy 2-bedroom apartment near Manhattan,None,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",46,Entire apartment,4 guests,4.5,4.48,2,25,60.0
+19038815,"1 Block from Subway, Central Location, Great Price",Brooklyn,2,1,2.0,"Wifi,Kitchen,Heating,Air conditioning",216,Private room in apartment,2 guests,5.0,4.75,1,1125,54.0
+23169714,MODERN CONDO MINUTES TO NYC **FREE PARKING**,None,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",191,Entire condominium,4 guests,5.0,4.93,2,1125,80.0
+2451647,"Bright, Modern Room in East Village!",Alphabet City,1,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",210,Private room in apartment,1 guest,5.0,4.82,1,60,65.0
+22637100,"Private room in Queens, Ny # 1",Glendale,1,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",142,Private room in apartment,1 guest,5.0,4.87,1,1125,25.0
+2631224,Tasteful Room in Charming Two Bedroom Apartment,Manhattan,1,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",249,Private room in apartment,1 guest,5.0,4.96,2,29,60.0
+5115372,Comfy Room “1 Guest Only” near LGA Airport,East Elmhurst,1,1,2.0,"Wifi,Heating,Air conditioning",487,Private room in townhouse,1 guest,5.0,4.9,1,14,39.0
+11553403,GREAT Bedroom in center of the Lower East Side!,Manhattan,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",277,Private room in apartment,2 guests,4.0,4.2,1,22,65.0
+4192400,Private+Cozy Room w/ Superhost ($0 Cleaning Fee)!,Bushwick,3,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",386,Private room in apartment,3 guests,5.0,4.83,1,28,64.0
+21244390,Cozy room near Times Square,Hell's Kitchen,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",160,Private room in apartment,2 guests,4.0,4.1,1,1125,60.0
+15043534,Private room in Sunnyside 2 46th St,Queens,2,1,2.0,"Wifi,Kitchen,Heating",204,Private room in apartment,2 guests,4.5,4.37,1,180,35.0
+19271040,Modern Beautiful Bedford Stuyvesant Brownstone,Brooklyn,6,3,1.0,"Wifi,Kitchen,Heating,Air conditioning",168,Entire apartment,6 guests,5.0,4.78,2,21,75.0
+5783899,"Live like a local! Queen size bed, private room.",Manhattan,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",352,Private room in apartment,2 guests,5.0,4.77,1,300,35.0
+106363,Bright Room With A Great River View,Manhattan,1,1,1.5,"Wifi,Kitchen,Heating",403,Private room in apartment,1 guest,5.0,4.84,3,30,56.0
+24541899,Clean and Comfortable Place to Rest in NYC!,Manhattan,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",95,Private room in apartment,2 guests,5.0,4.82,2,29,55.0
+7857185,Midtown great location private Apt,Midtown,3,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",232,Entire apartment,3 guests,4.5,4.27,1,1125,90.0
+39128784,Sonder | 116 John | Serene 1BR + Fitness Center,Manhattan,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",4,Entire apartment,4 guests,4.5,4.5,2,1125,119.0
+12136198,5th ave/Broadway near Empire State,Midtown,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",213,Entire apartment,2 guests,4.5,4.63,1,1125,99.0
+7542471,Luxe 1-Bedroom Flat Near Manhattan,None,4,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",280,Entire apartment,4 guests,5.0,4.85,1,1125,85.0
+34453822,Centrally located near Times Square &amp; Bryant Park,Times Square/Theatre District,2,1,1.0,"Wifi,Heating,Air conditioning",70,Room in hotel,2 guests,4.0,4.17,1,1125,109.0
+1983466,A Cozy Creative Room for Nomads,Upper West Side,1,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",287,Private room in apartment,1 guest,4.5,4.63,2,30,65.0
+35570888,"Leon Hotel, King, Vibrant indie boutique",Chinatown,2,1,1.0,"Wifi,Heating,Air conditioning",9,Room in hotel,2 guests,5.0,4.78,1,1125,95.0
+8213488,Bed-Stuy Gem with Private Entrance,Brooklyn,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",280,Private room in apartment,2 guests,5.0,4.83,3,21,62.0
+14821603,Convenient Bushwick Room for 1 or 2 Guests,Bushwick,2,1,1.5,"Wifi,Kitchen,Heating,Air conditioning",130,Private room in apartment,2 guests,4.5,4.4,2,20,34.0
+21306544,NYC @ Midtown ⚡ 12 Minutes!,None,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",90,Entire apartment,3 guests,4.5,4.53,3,365,60.0
+16014791,Clean style apt. Central midtwn near Javits,Hell's Kitchen,3,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",207,Private room in apartment,3 guests,4.5,4.5,1,1125,98.0
+21738018,"2 Blocks from Times Square, Centrally Located!",Hell's Kitchen,5,4,1.0,"Wifi,Kitchen,Heating,Air conditioning",207,Entire apartment,5 guests,4.5,4.66,1,1125,135.0
+16014791,Clean style apt. Central midtwn near Javits,Hell's Kitchen,3,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",207,Private room in apartment,3 guests,4.5,4.5,1,1125,98.0
+19387402,Luxury Central Park Apartment close to everything,Manhattan,4,4,1.0,"Wifi,Kitchen,Heating,Air conditioning",158,Entire apartment,4 guests,4.5,4.69,1,1125,169.0
+23669328,Private Bedroom in Apartment in Bushwick &amp; Bedstuy,Bushwick,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",96,Private room in apartment,2 guests,4.5,4.58,1,21,32.0
+1802584,YOUR  PRIVATE COZY 1Br + 15min from Manhattan,Queens,3,2,1.0,"Wifi,Heating,Air conditioning",117,Entire townhouse,3 guests,4.5,4.56,1,25,55.0
+17711806,Private Room &amp; Private bathroom 2mins to subway!,Brooklyn,4,2,1.5,"Wifi,Kitchen,Heating,Air conditioning",171,Private room in house,4 guests,5.0,4.91,1,1125,50.0
+442636,"Private,Affordable, 20 min to NYC!",Ridgewood,5,2,1.0,"Wifi,Heating,Air conditioning",311,Entire apartment,5 guests,4.5,4.72,3,30,48.0
+116940,ROOM WITH A  KITCHENETTE,Crown Heights,2,0,1.0,"Wifi,Kitchen,Heating,Air conditioning",241,Entire house,2 guests,4.5,4.6,3,365,80.0
+9782,Loft in Williamsburg Area w/ Roof,Williamsburg,2,1,1.5,"Wifi,Kitchen,Heating,Air conditioning",211,Private room in apartment,2 guests,4.0,4.07,4,60,55.0
+755528,PRIVATE BATH/TONS OF SUNLIGHT/SAFE,Allerton,3,2,1.0,"Wifi,Heating,Air conditioning",202,Entire apartment,3 guests,4.5,4.51,2,100,42.0
+20121308,Spacious room w/Private Roof Deck in Shared Apt,Upper West Side,3,2,1.0,"Heating,Air conditioning",169,Private room in apartment,3 guests,5.0,4.85,1,25,69.0
+9594995,Beautiful private 1BR apt in Harlem,Manhattan,4,3,1.0,"Wifi,Kitchen,Heating,Air conditioning",327,Entire apartment,4 guests,5.0,4.8,1,1125,104.0
+17376200,Nice clean room in Brooklyn,Brooklyn,2,1,1.0,"Wifi,Kitchen,Heating",84,Private room in apartment,2 guests,5.0,4.84,5,31,50.0
+10516381,Original Cabin 22,Manhattan,1,1,0.0,"Wifi,Heating,Air conditioning",84,Private room,1 guest,4.0,4.04,1,1125,49.0
+3476105,Your own private big Brooklyn apt!,Brooklyn,2,0,1.0,"Wifi,Kitchen,Heating,Air conditioning",147,Entire apartment,2 guests,4.5,4.67,4,90,73.0
+18076273,Lovely &amp; bright Brooklyn room close to train,Greenpoint,1,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",64,Private room in apartment,1 guest,5.0,4.98,5,30,63.0
+6422875,Brooklyn Creative Snooze Factory,Brooklyn,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",438,Private room in apartment,2 guests,4.5,4.7,1,31,50.0
+19567629,East Village. Best Space/Location 1 Bdrm 1 Person,Alphabet City,1,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",150,Private room in apartment,1 guest,5.0,4.87,1,5,70.0
+769448,"Bedford Loft, Williamsburg Prime",Williamsburg,6,3,1.0,"Wifi,Kitchen,Heating,Air conditioning",331,Entire apartment,6 guests,4.5,4.65,2,31,172.0
+3659544,Home Away from Home-Room in Midtown,Hell's Kitchen,2,1,1.5,"Wifi,Heating,Air conditioning",187,Private room in apartment,2 guests,4.5,4.71,3,21,69.0
+21475999,"Single Cabins (Chelsea, Manhattan, NYC)",Manhattan,1,1,3.0,"Wifi,Heating,Air conditioning",189,Room in hostel,1 guest,4.5,4.27,1,29,62.0
+22615640,Attic Private Room,None,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",187,Private room in house,3 guests,5.0,4.87,1,1125,35.0
+16938284,Beautiful Private Home -minutes from NYC!,None,8,4,1.5,"Wifi,Kitchen,Heating,Air conditioning",278,Entire house,8 guests,4.5,4.72,1,18,49.0
+19439682,Entire Apartement in Queens!8min from Jfk,South Ozone Park,2,0,1.0,"Wifi,Kitchen,Heating,Air conditioning",338,Entire house,2 guests,5.0,4.79,1,28,79.0
+11676984,Luxury STUDIO * PVT Entrance * WOW,Upper East Side,3,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",175,Entire apartment,3 guests,4.5,4.34,1,1125,101.0
+18602823,Greatest Deal near EWR/NYC!,None,1,1,2.0,"Wifi,Kitchen,Heating,Air conditioning",316,Private room in house,1 guest,4.5,4.69,1,1125,27.0
+749455,Lovely Loft space near Central Park &amp; Times Square,Upper West Side,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",382,Private room in apartment,2 guests,4.5,4.36,1,10,79.0
+16586422,White shared space with 0min to bus stop,Brooklyn,1,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",226,Shared room in apartment,1 guest,4.5,4.71,1,1125,45.0
+17941851,Tropical Getaway in Brooklyn at The Funky Loft,Bushwick,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",197,Private room in loft,2 guests,5.0,4.84,3,8,65.0
+9734068,"1 BED ROOM ACCOMMODATION 4, 5 GUEST",Manhattan,5,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",223,Entire apartment,5 guests,4.0,4.2,1,1125,85.0
+1895196,Apt near Museum Mile,Upper East Side,3,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",262,Entire apartment,3 guests,4.5,4.6,4,60,80.0
+126443,☆Massive DUPLEX☆ 2BR &amp; 2BTH East Village 9+ Guests,East Village,9,4,2.0,"Wifi,Kitchen,Heating,Air conditioning",376,Entire apartment,9 guests,4.5,4.26,2,28,268.0
+2013807,Magic Manhattan with Rooftop,Manhattan,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",232,Entire apartment,2 guests,4.5,4.26,1,30,123.0
+32676181,Accessible Two Bedded Suite With Kitchen near MSG,Midtown,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",52,Room in hotel,4 guests,4.0,3.9,1,1125,119.0
+21306417,NYC Times Square  13 Mins!,None,3,2,1.0,"Wifi,Kitchen,Heating",88,Entire apartment,3 guests,4.5,4.38,3,365,55.0
+28227966,Beautiful One Bed,Brooklyn,3,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",73,Private room in apartment,3 guests,5.0,4.89,2,6,32.0
+21392524,Elegant Private Apartment in a Historic Brownstone,Manhattan,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",132,Private room in townhouse,4 guests,4.5,4.71,1,1125,64.0
+19204555,Bedroom in renovated apartment -Astoria,Queens,1,1,1.0,"Wifi,Kitchen,Heating",27,Private room in apartment,1 guest,5.0,4.76,8,31,38.0
+24515524,Affordable Modern/Luxury 2 Bedroom Apt,Brooklyn,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",98,Entire apartment,4 guests,4.5,4.53,2,1125,97.0
+14378713,Big Bed in Brooklyn Room; close to train,Brooklyn,1,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",104,Private room in apartment,1 guest,4.5,4.69,1,21,38.0
+28616437,NYC/NJ - MODERN &amp; PRIVATE STUDIO 15min- EWR,None,4,4,1.0,"Wifi,Heating,Air conditioning",122,Entire guest suite,4 guests,5.0,4.76,1,28,49.0
+20194665,"20min To Times Square, 10min LGA",Queens,2,1,1.0,"Wifi,Heating",206,Private room in apartment,2 guests,4.5,4.52,1,1125,45.0
+27538237,Grand Suite in Historic Brownstone,Crown Heights,4,1,1.0,"Wifi,Heating,Air conditioning",52,Entire apartment,4 guests,4.5,4.65,3,1125,75.0
+21695785,"Manhattan, Gigantic Rm Nearby Central Park &amp; Metro",Manhattan,2,3,2.0,"Wifi,Kitchen,Heating,Air conditioning",213,Private room in apartment,2 guests,5.0,4.73,1,28,53.0
+7870403,Mins to Manhattan and Williamsburg!,Queens,4,3,1.0,"Wifi,Kitchen,Heating,Air conditioning",258,Entire apartment,4 guests,5.0,4.76,1,1125,70.0
+11745621,5 min walk to Times Square! Sleeps 4!,Hell's Kitchen,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",209,Entire apartment,4 guests,4.5,4.68,1,28,150.0
+934418,Cozy 1-Bedroom Flat near Manhattan,None,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",361,Entire apartment,4 guests,5.0,4.74,1,30,65.0
+19734492,Beautiful Modern Brooklyn Gem,East Flatbush,4,2,1.5,"Wifi,Kitchen,Heating,Air conditioning",232,Entire apartment,4 guests,4.5,4.72,1,29,57.0
+20933293,Cozy Moroccan 1BR APT in the heart of Astoria,Queens,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",173,Private room in apartment,2 guests,5.0,4.74,1,14,63.0
+158955,PRIVATE and SUNNY Williamsburg Apt!,Williamsburg,6,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",408,Entire apartment,6 guests,4.5,4.37,2,365,129.0
+17972518,13 Minutes ❤ Midtown Manhattan!,None,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",121,Entire apartment,2 guests,4.5,4.32,3,365,52.0
+15407459,"Eco friendly, Jersey City, 15 min to NYC - Room 2",None,2,1,3.0,"Wifi,Kitchen,Heating,Air conditioning",196,Private room in house,2 guests,5.0,4.82,1,1125,45.0
+25912706,"Manhattan Room w/2 beds, near Central Park &amp; Metro",Manhattan,2,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",152,Private room in apartment,2 guests,4.5,4.68,1,1125,55.0
+19737701,Modern 2 bd Apartment .,None,5,3,1.0,"Wifi,Kitchen,Heating,Air conditioning",163,Entire apartment,5 guests,5.0,4.91,1,1125,50.0
+23747542,Cozy Studio Apartment near EWR/NYC,None,2,1,1.0,"Wifi,Heating,Air conditioning",112,Entire guest suite,2 guests,5.0,4.93,1,5,58.0
+14373756,ENTIRE FLOR :) PRIVATE entrance&amp;full bathroom! :DD,Bushwick,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",220,Private room in apartment,3 guests,5.0,4.86,1,1125,58.0
+2968070,Near Times Square and Hell's Kitchen,Hell's Kitchen,3,2,1.0,"Wifi,Kitchen,Air conditioning",411,Private room in apartment,3 guests,5.0,4.74,1,29,90.0
+11843397,Room 1/2 block from Central Park!,Manhattan,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",197,Private room in apartment,2 guests,5.0,4.76,2,90,71.0
+11738831,Spacious 1 BDRM near Central Park,Upper East Side,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",204,Entire apartment,3 guests,4.5,4.43,1,1125,124.0
+3799598,★Unique two bedroom on 2nd Avenue★,East Village,5,3,1.0,"Wifi,Heating,Air conditioning",324,Entire apartment,5 guests,4.5,4.47,1,1125,120.0
+21645526,The Webster,None,6,3,1.0,"Wifi,Kitchen,Heating,Air conditioning",152,Entire condominium,6 guests,5.0,4.77,1,22,68.0
+13620412,"Cozy, private bed &amp; private bath",Brooklyn,2,1,1.0,"Wifi,Heating,Air conditioning",145,Private room in apartment,2 guests,4.5,4.6,3,30,65.0
+157673,Large  Loft Style  Studio  Space,Brooklyn,4,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",88,Entire loft,4 guests,4.5,4.48,31,1125,60.0
+12171671,Interfaith Retreat Guest Rooms (Govinda),Manhattan,1,1,1.0,"Wifi,Heating,Air conditioning",247,Room in hostel,1 guest,4.5,4.44,1,31,65.0
+14918238,Beautiful Sunny Small Room,Brooklyn,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",245,Private room in apartment,2 guests,4.5,4.65,1,21,40.0
+6093352,Sunny Room 15min from Manhattan,Williamsburg,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",296,Private room in loft,3 guests,4.5,4.64,1,1125,50.0
+17222454,Sun Room in Family Home by LaGuardia Airport LGA,East Elmhurst,1,1,2.0,"Wifi,Heating,Air conditioning",469,Private room in townhouse,1 guest,5.0,4.94,1,14,39.0
+13941308,"# CENTRAL PARK - 3 stops away (32""TV room)",Manhattan,2,1,2.0,"Wifi,Kitchen,Heating,Air conditioning",138,Private room in apartment,2 guests,5.0,4.77,7,45,42.0
+2119216,"Affordable, Private, Simple &amp; Clean NYC Flat!",Manhattan,5,4,1.0,"Wifi,Kitchen,Heating,Air conditioning",379,Entire apartment,5 guests,4.5,4.37,1,28,80.0
+235951,Stylish Studio with exclusive Terrace,Midtown,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",141,Entire condominium,2 guests,4.5,4.7,30,180,150.0
+32021070,"One bedroom apartment, all the comforts of home!",None,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",31,Entire apartment,3 guests,4.5,4.42,2,30,40.0
+5892693,"Large, sunny, private studio Apt 2F",Greenpoint,2,1,1.0,"Wifi,Heating,Air conditioning",277,Entire apartment,2 guests,5.0,4.74,2,30,73.0
+34096839,Near Hudson Yards &amp; Times Square w/ breakfast,Hell's Kitchen,2,1,1.0,"Wifi,Heating,Air conditioning",45,Room in hotel,2 guests,4.0,3.8,1,1125,108.0
+227715,ROOM WITH KITCHENETTE #2,Brooklyn,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",245,Entire house,3 guests,4.5,4.59,3,365,80.0
+5557097,A private room in New York. One block from A (1),Washington Heights,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",123,Private room in apartment,2 guests,4.5,4.67,4,1125,59.0
+32676180,Large Private Suite in the Heart of Midtown,Manhattan,4,1,1.0,"Wifi,Heating,Air conditioning",60,Room in hotel,4 guests,3.5,3.72,1,1125,134.0
+16313932,Micro Room A,Hell's Kitchen,1,1,1.0,"Wifi,Heating,Air conditioning",216,Private room in apartment,1 guest,4.5,4.72,1,10,53.0
+29592768,Filomena’s,Queens,2,1,1.0,"Wifi,Heating,Air conditioning",107,Entire apartment,2 guests,5.0,4.81,1,1125,90.0
+19228323,Entire Place Cozy Apartment Close to New York City,None,3,3,1.0,"Wifi,Kitchen,Heating,Air conditioning",119,Entire apartment,3 guests,4.5,4.71,2,21,70.0
+32678721,Nice Room 1 block away from Times Square action!,Times Square/Theatre District,2,1,1.0,"Wifi,Heating,Air conditioning",71,Room in hotel,2 guests,4.5,4.34,1,1125,116.0
+5641857,NYC Brownstone 20 min to the American Dream Park 1,Manhattan,6,3,2.0,"Wifi,Kitchen,Heating,Air conditioning",270,Entire apartment,6 guests,5.0,4.82,2,1125,27.0
+22282585,New Private studio-apartment,Manhattan,4,0,1.0,"Wifi,Heating,Air conditioning",92,Entire apartment,4 guests,4.5,4.66,1,180,75.0
+9013280,Luxury studio Bedstuy Brooklyn,Brooklyn,2,1,1.0,"Wifi,Heating,Air conditioning",103,Entire apartment,2 guests,4.5,4.6,1,1125,10.0
+17255880,Modern Rooftop Loft W/ Private Ensuite &amp; Cityviews,Crown Heights,2,1,1.5,"Wifi,Kitchen,Heating,Air conditioning",243,Private room in apartment,2 guests,5.0,4.79,1,30,65.0
+22192407,Heart of Manhattan. Just renovated home!,Times Square/Theatre District,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",94,Entire apartment,2 guests,5.0,4.77,5,1124,140.0
+14594286,On Broadway &amp; 3 stops to Times Square,Manhattan,1,1,1.0,"Wifi,Kitchen,Heating",108,Private room in apartment,1 guest,5.0,4.91,3,17,50.0
+20794628,Williamsburg-Greenpoint Loft,Greenpoint,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",129,Entire apartment,4 guests,4.5,4.64,2,93,111.0
+17147561,Best Location + Private Roof Deck,East Village,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",233,Private room in apartment,2 guests,4.5,4.5,1,1125,69.0
+12502633,New Apt. in Park Slope / Gowanus,Brooklyn,2,0,1.0,"Wifi,Kitchen,Heating,Air conditioning",421,Entire apartment,2 guests,5.0,4.8,1,1125,125.0
+31333074,Miltons place,Manhattan,4,0,1.0,"Wifi,Kitchen,Heating,Air conditioning",28,Entire apartment,4 guests,5.0,4.86,4,14,90.0
+63299,BROOKLYN &gt; Guest Room w/ Queen Bed in Williamsburg,Williamsburg,1,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",205,Private room in apartment,1 guest,5.0,4.83,2,31,63.0
+7837816,"Bright, Cozy room in Brooklyn",Brooklyn,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",206,Private room in apartment,2 guests,5.0,4.85,1,90,50.0
+31333074,Miltons place,Manhattan,4,0,1.0,"Wifi,Kitchen,Heating,Air conditioning",28,Entire apartment,4 guests,5.0,4.86,4,14,90.0
+26250185,LYRIC - NEW Hotel Studio Suite with Kitchen,Manhattan,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",88,Entire serviced apartment,2 guests,5.0,4.92,1,29,179.0
+4268286,Cozy brownstone bed &amp; bath; pvt.ent,Manhattan,2,1,1.0,"Wifi,Heating,Air conditioning",163,Private room in guest suite,2 guests,5.0,4.76,3,14,100.0
+4152752,Location is Everything. And Quiet Too!,Hell's Kitchen,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",424,Private room in apartment,2 guests,5.0,4.83,1,1125,90.0
+20772204,BEST NYC DEAL! No cleaner fees!,Wakefield,2,1,1.0,"Wifi,Kitchen,Heating",205,Private room in house,2 guests,5.0,4.8,1,21,34.0
+4199353,NYC Times Square in 14 Minutes!,None,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",140,Entire apartment,2 guests,4.0,4.22,3,365,60.0
+17294950,A Room with a View at The Funky Loft,Bushwick,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",208,Private room in loft,2 guests,5.0,4.78,3,8,65.0
+27598707,Freehand New York - Artist Room,Manhattan,1,1,1.0,"Wifi,Heating,Air conditioning",49,Room in boutique hotel,1 guest,4.5,4.53,1,1125,103.0
+18173787,Cute Tiny Room Family Home LaGuardia Airport LGA,East Elmhurst,1,1,2.0,"Wifi,Heating,Air conditioning",495,Private room in townhouse,1 guest,5.0,4.93,1,4,45.0
+17311213,Backpackers Dream for 1 at The Funky Loft,Bushwick,1,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",213,Private room in loft,1 guest,5.0,4.87,3,8,60.0
+17777286,Brownstone studio near central park,Manhattan,3,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",170,Entire apartment,3 guests,4.5,4.49,1,1047,125.0
+11444671,"Great Home &amp; Host, Next to 1 train.",Manhattan,2,1,2.0,"Wifi,Kitchen,Heating,Air conditioning",51,Private room in apartment,2 guests,5.0,4.92,14,150,41.0
+3004348,Modern Stay in Brownstone Brooklyn,Brooklyn,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",307,Entire apartment,4 guests,5.0,4.74,3,60,95.0
+9675064,"Clean Quiet 2 Bedroom Apartment,  Private",Brooklyn,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",238,Entire house,4 guests,5.0,4.8,2,1125,90.0
+11146432,Cozy top floor room at Brooklyn&amp;Breakfast,Brooklyn,2,1,4.0,"Wifi,Kitchen,Heating,Air conditioning",289,Private room in apartment,2 guests,5.0,4.76,1,125,39.0
+89621,"WONDERFUL, COMFORTABLE STUDIO",Brooklyn,3,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",234,Entire house,3 guests,4.5,4.46,3,365,90.0
+31071518,Sofa bed in my big living room,Manhattan,1,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",14,Private room in apartment,1 guest,4.5,4.71,3,8,32.0
+17122814,Sunny room,Manhattan,1,1,1.0,"Wifi,Kitchen,Heating",88,Private room in apartment,1 guest,5.0,4.8,30,365,35.0
+3208904,Chic Designer’s Room &amp; 2 Beds in Manhattan LES,Manhattan,2,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",256,Private room in apartment,2 guests,4.5,4.57,3,10,69.0
+15115143,46st Cozy Flat Midtown/Tms Squr/Javits Ctr/Pier 97,Hell's Kitchen,3,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",192,Entire apartment,3 guests,5.0,4.88,3,20,99.0
+22830789,Freshly NewPrivateROOM by the7train*15minToMidtown,Queens,2,1,1.0,"Wifi,Heating,Air conditioning",158,Private room in condominium,2 guests,5.0,4.83,1,6,35.0
+20957816,NYC Times Square ⚡ 12 Minutes!,None,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",72,Entire apartment,2 guests,4.5,4.44,3,365,55.0
+13941973,Affordable room near of LGA airport in Queens.,Elmhurst,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",286,Private room in townhouse,2 guests,4.5,4.68,1,7,41.0
+15043788,Private Room in Sunnyside 3,Queens,2,1,2.0,"Wifi,Kitchen,Heating,Air conditioning",171,Private room in apartment,2 guests,4.5,4.44,1,188,35.0
+22815783,Your cozy space in Brooklyn,Crown Heights,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",151,Private room in apartment,2 guests,4.5,4.52,1,1125,50.0
+17298736,Cozy large 1 br In NYC Near LGA 30 mins to midtown,Queens,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",99,Private room in apartment,2 guests,4.5,4.66,4,1049,35.0
+21770277,"Private Bedroom in Artsy Airbnb: Room ""L""",Flatbush,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",128,Private room in apartment,3 guests,5.0,4.73,2,1125,42.0
+31909528,The clean separate studio in New York,Queens,2,1,1.0,"Wifi,Heating,Air conditioning",95,Entire guest suite,2 guests,5.0,4.84,2,90,45.0
+15988664,Perfect Weekender in the East Village...,Alphabet City,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",98,Entire apartment,2 guests,4.5,4.6,2,30,150.0
+32676188,Accessible Two Bedded Large One Bedroom in Midtown,Manhattan,6,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",69,Room in hotel,6 guests,4.0,4.04,1,1125,129.0
+21607905,Lenox Suit Hotel Themed Studio,Manhattan,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",106,Entire apartment,2 guests,4.5,4.42,1,2,80.0
+16533105,Queen bed-Close to Columbia U &amp; Central Park,Manhattan,3,1,1.0,"Wifi,Heating,Air conditioning",307,Private room in apartment,3 guests,4.5,4.7,1,14,68.0
+13879965,Private Micro Room 2,Hell's Kitchen,1,1,1.0,"Wifi,Heating,Air conditioning",255,Private room in apartment,1 guest,4.5,4.71,1,10,55.0
+9240346,Charming Union Sq Studio w/Elevator,Manhattan,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",241,Entire apartment,4 guests,5.0,4.82,1,1125,49.0
+25805422,Awesome clean &amp; cozy space in Sunset Park!,Sunset Park,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",101,Private room in apartment,2 guests,5.0,4.78,3,14,50.0
+13879965,Private Micro Room 2,Hell's Kitchen,1,1,1.0,"Wifi,Heating,Air conditioning",255,Private room in apartment,1 guest,4.5,4.71,1,10,55.0
+30706817,Large Sunny 2 Bedrooms in Manhattan-Steps2Subway,Manhattan,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",57,Private room in apartment,4 guests,4.0,3.95,1,1125,29.0
+8456825,Bushwick Oasis,Bushwick,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",196,Entire apartment,2 guests,5.0,4.85,2,15,75.0
+4170460,#1 Superhost Special Offer in NYC!,Brooklyn,3,2,1.0,"Wifi,Heating,Air conditioning",388,Private room in apartment,3 guests,4.5,4.53,1,15,60.0
+34485742,Midtown Manhattan - Private room,Times Square/Theatre District,2,1,1.0,"Wifi,Heating,Air conditioning",75,Room in hotel,2 guests,4.5,4.39,1,1125,160.0
+1767037,Small Cozy Room Wifi &amp; AC near JFK,Queens,2,2,1.0,"Wifi,Heating,Air conditioning",415,Private room in house,2 guests,4.5,4.62,2,14,29.0
+23105516,BEST NYC DEAL! 2 train straight to Times Square,Woodlawn,2,1,1.0,"Wifi,Kitchen,Heating",110,Private room in apartment,2 guests,5.0,4.79,1,22,30.0
+15858847,"Classic Brownstone, a Private Studio Apartment",Manhattan,5,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",157,Private room in townhouse,5 guests,4.5,4.62,1,1124,84.0
+3989564,Brooklyn Garden Apartment ,Brooklyn,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",225,Entire apartment,4 guests,4.5,4.6,2,30,79.0
+4532913,Williamsburg private clean cozy RM,Williamsburg,1,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",204,Private room in house,1 guest,4.5,4.71,1,1125,45.0
+2896760,"Safe, cozy &amp; minutes to NYC",Queens,3,1,1.0,"Wifi,Kitchen,Heating",148,Private room in apartment,3 guests,4.5,4.33,1,1000,35.0
+8813306,Cozy Apartment Near Times Square,Hell's Kitchen,3,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",264,Entire apartment,3 guests,4.5,4.44,2,100,119.0
+32303671,BROOKLYN! Chic Williamsburg room + Balcony +Trains,Williamsburg,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",68,Private room in apartment,2 guests,4.5,4.65,1,1125,40.0
+26098014,Great views over rooftops,Park Slope,2,2,1.0,"Wifi,Heating,Air conditioning",117,Entire townhouse,2 guests,5.0,4.86,5,61,76.0
+29965956,Cozy Apartment near Central Park,Upper West Side,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",83,Private room in apartment,2 guests,5.0,4.93,1,1125,70.0
+74680,One Bedroom Mini studio - Free WIFI,Queens,3,2,1.0,"Wifi,Heating,Air conditioning",218,Entire apartment,3 guests,4.5,4.66,2,30,115.0
+24594587,Perfect Small Room 15 Minutes From Time Square,Manhattan,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",152,Private room in apartment,2 guests,5.0,4.82,2,31,50.0
+21172762,Spacious room near Times Square,Hell's Kitchen,4,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",163,Private room in apartment,4 guests,4.5,4.31,1,1125,75.0
+3888752,"Bright, quiet, cozy 1BR by C Park!",Upper West Side,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",432,Entire apartment,2 guests,5.0,4.82,1,1125,179.0
+19641140,"Basement, 1 bus ride to and from TIMES SQUARE NYC",None,2,1,1.0,"Wifi,Kitchen,Heating",125,Entire house,2 guests,5.0,4.74,2,1125,55.0
+20581823,PRIVATE ROOM! No cleaning fees! 2/5 train,Wakefield,1,1,1.0,"Wifi,Kitchen,Heating",153,Private room in apartment,1 guest,5.0,4.75,1,21,31.0
+9248049,NYC Fantastic Apartment (very quiet &amp; private bath,Hell's Kitchen,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",229,Entire apartment,3 guests,5.0,4.83,4,30,119.0
+15553416,NYC inspired Apt 15min Time square,None,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",165,Entire apartment,4 guests,5.0,4.75,2,1125,72.0
+32981096,A melhor localização de Newark é aqui,None,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",33,Private room in house,2 guests,5.0,4.82,2,30,30.0
+8097567,Giant Sunny Room at Brooklyn&amp;Breakfast,Brooklyn,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",258,Private room in apartment,3 guests,5.0,4.86,1,75,44.0
+29855428,Cozy 1 bedroom Apartment  5 min from LGA!,East Elmhurst,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",141,Entire apartment,4 guests,5.0,4.83,1,1125,65.0
+22980907,"Cute, Bright Private Attic Space in Brooklyn Home",Brooklyn,2,1,0.5,"Wifi,Heating,Air conditioning",112,Entire loft,2 guests,4.5,4.72,3,1125,68.0
+16677866,Nice Private Studio Apartment,Manhattan,4,0,1.0,"Wifi,Kitchen,Heating,Air conditioning",148,Entire apartment,4 guests,4.5,4.66,1,180,80.0
+803584,20 Min+ to Times Square- Sunny 2 BR,None,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",284,Entire apartment,4 guests,5.0,4.95,3,1125,99.0
+13900417,LUXURY HUGE 1BR DUPLEX NEAR TRAIN - PATIO OASIS!!,Brooklyn,4,1,1.5,"Wifi,Kitchen,Heating,Air conditioning",367,Entire townhouse,4 guests,5.0,4.81,1,1125,135.0
+22361604,Brooklyn Palace,Brooklyn,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",168,Entire apartment,2 guests,4.5,4.5,1,60,105.0
+33310428,Confortable y limpio,Washington Heights,1,1,1.0,"Wifi,Heating,Air conditioning",57,Private room in apartment,1 guest,5.0,4.86,2,10,37.0
+35085826,A Simple Studio.  JFK about 5miles.,Jamaica,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",46,Entire house,3 guests,5.0,4.91,1,28,79.0
+27735126,Cozy Shared pl by Central Park(Female Guests Only),Manhattan,2,3,1.0,"Wifi,Heating,Air conditioning",76,Shared room in apartment,2 guests,4.5,4.66,2,1125,31.0
+6027345,Newly renovated historic brownstone,Brooklyn,2,1,1.5,"Wifi,Kitchen,Heating,Air conditioning",307,Private room in apartment,2 guests,5.0,4.78,2,12,45.0
+10010845,Modern 1 bedroom 5min Cental Park,Upper West Side,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",195,Entire apartment,3 guests,4.5,4.46,1,28,128.0
+32922087,Private Bedroom in Manhattan,Washington Heights,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",55,Private room in apartment,2 guests,4.5,4.31,1,1125,48.0
+8254405,Classic Harlem --- Economy Room,Manhattan,2,1,1.0,"Wifi,Kitchen,Heating",185,Private room in house,2 guests,4.5,4.36,1,1125,42.0
+29457275,Heart of Hell's Kitchen Private Mezzanine,Hell's Kitchen,1,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",108,Private room in apartment,1 guest,4.5,4.71,1,3,82.0
+11549838,Rustic charm in BKLYN // QUEEN Bed!,Flatbush,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",230,Private room in house,2 guests,5.0,4.8,1,40,40.0
+8210379,Comfy garden level room at Brooklyn&amp;Breakfast,Brooklyn,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",227,Private room in apartment,2 guests,5.0,4.81,1,90,37.0
+13762046,Private Micro Room  1,Hell's Kitchen,1,1,1.0,"Wifi,Heating,Air conditioning",281,Private room in apartment,1 guest,5.0,4.73,1,10,55.0
+670767,Bookcase Room with Hidden Door!,Bushwick,1,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",81,Private room in apartment,1 guest,5.0,4.81,5,62,42.0
+32678725,Enjoy the Times Square experience with the family!,Times Square/Theatre District,4,2,1.0,"Wifi,Heating,Air conditioning",53,Room in hotel,4 guests,4.0,4.17,1,1125,114.0
+26641367,Studio only 4.6 miles to Manhattan NYC 42nd St,None,2,1,1.0,"Wifi,Heating,Air conditioning",58,Entire condominium,2 guests,4.5,4.29,2,365,39.0
+8880999,NicE Room  with Private Bathroom BK:) SUPERHOST :),Bushwick,3,2,3.0,"Wifi,Kitchen,Heating",287,Private room in apartment,3 guests,5.0,4.86,1,1125,62.0
+1817510,Skylight BR in Gorgeous Rooftop Apt,Bushwick,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",364,Private room in apartment,2 guests,5.0,4.73,1,6,52.0
+466457,"Bright, Bedstuy Gem",Brooklyn,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",205,Entire house,3 guests,5.0,4.83,3,365,90.0
+24230182,Brand-new Room - 20 mins to Manhattan,Williamsburg,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",47,Private room in condominium,2 guests,4.0,3.91,2,1125,41.0
+993040,YOUR HARLEM HOME AWAY FROM HOME!!! ,Manhattan,2,1,1.0,"Wifi,Kitchen,Heating",192,Private room in apartment,2 guests,4.5,4.36,1,114,55.0
+31085554,Paradise in New York City 2,Manhattan,6,3,2.0,"Wifi,Kitchen,Heating,Air conditioning",51,Entire apartment,6 guests,5.0,4.84,2,29,27.0
+3139489,"Nice Cozy Room BROOKLYN NYC NY, Bushwick JFK LGA",Bushwick,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",198,Private room in house,2 guests,5.0,4.77,3,23,37.0
+9408218,Charming One Bed Room Apartment,Manhattan,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",182,Entire apartment,4 guests,4.0,4.08,1,1125,95.0
+11020169,Luxurious  one bedroom apartment in a quiet area.,Baychester,2,1,1.0,"Wifi,Kitchen,Heating",223,Entire apartment,2 guests,5.0,4.82,3,1125,95.0
+31994,Room with En Suite Bathroom &amp; Deck,Brooklyn,2,1,1.0,"Wifi,Kitchen,Heating",441,Private room in apartment,2 guests,4.5,4.47,2,365,72.0
+16805869,Cozier Orchard Street Room in Lower East Side!,Manhattan,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",96,Private room in apartment,2 guests,4.0,4.17,1,22,60.0
+29987114,Hamilton Heights - West Harlem Studio,Manhattan,2,1,1.0,"Wifi,Heating,Air conditioning",96,Entire apartment,2 guests,5.0,4.91,2,14,100.0
+28941710,Tiny Home,Queens,2,1,1.0,"Wifi,Heating",70,Tiny house,2 guests,4.5,4.67,2,180,39.0
+12433088,Simple Suite with Private Bathroom,Crown Heights,2,1,1.0,"Wifi,Heating,Air conditioning",42,Entire guest suite,2 guests,4.5,4.5,2,360,55.0
+506575,Bronx Room Near Yankees + Harlem,Morris Heights,4,1,None,"Wifi,Heating,Air conditioning",207,Private room in apartment,4 guests,4.0,4.16,3,180,33.0
+18503701,Oriental Room in Upper Manhattan near Central Park,Manhattan,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",106,Private room in apartment,3 guests,4.5,4.61,3,1125,78.0
+10038823,"Apartment for 5, Midtown Manhattan",Midtown,5,3,1.0,"Wifi,Kitchen,Heating,Air conditioning",134,Entire apartment,5 guests,4.5,4.33,1,1125,60.0
+32068817,"Cozy home with pool table, miles from NYC",None,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",45,Private room in house,2 guests,4.5,4.5,1,1125,32.0
+17319475,Best Deal! small room  near EWR/NYC,None,1,1,2.0,"Wifi,Kitchen,Heating,Air conditioning",326,Private room in house,1 guest,4.5,4.6,1,1125,29.0
+5567361,Modern Apt - Vibrant Neighborhood!,Flatbush,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",321,Entire apartment,4 guests,5.0,4.85,1,28,100.0
+4553721,Art Large bedroom Williamsburg Brownstone longterm,Williamsburg,1,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",223,Private room in apartment,1 guest,4.5,4.7,1,365,60.0
+16324410,Private cozy room near LGA airport,East Elmhurst,2,1,1.0,"Wifi,Heating,Air conditioning",389,Private room in house,2 guests,4.5,4.62,2,25,31.0
+21147249,Spacious Bedroom in Renovated Apartment- Astoria,Queens,1,1,1.0,"Wifi,Kitchen,Heating",31,Private room in apartment,1 guest,4.5,4.48,7,62,38.0
+9618986,1 Bedrom Apt(One Block From Subway),Brooklyn,2,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",111,Entire house,2 guests,4.0,3.97,2,6,85.0
+16735801,Twin bed-Close to Columbia U &amp; Central Park,Manhattan,1,1,1.0,"Wifi,Heating,Air conditioning",274,Private room in apartment,1 guest,4.5,4.71,1,7,65.0
+3534012,Best Room in Bushwick,Bushwick,1,1,1.0,"Wifi,Kitchen,Heating",218,Private room in condominium,1 guest,4.5,4.53,1,1125,39.0
+17319475,Best Deal! small room  near EWR/NYC,None,1,1,2.0,"Wifi,Kitchen,Heating,Air conditioning",326,Private room in house,1 guest,4.5,4.6,1,1125,29.0
+12433088,Simple Suite with Private Bathroom,Crown Heights,2,1,1.0,"Wifi,Heating,Air conditioning",42,Entire guest suite,2 guests,4.5,4.5,2,360,55.0
+21147249,Spacious Bedroom in Renovated Apartment- Astoria,Queens,1,1,1.0,"Wifi,Kitchen,Heating",31,Private room in apartment,1 guest,4.5,4.48,7,62,38.0
+32068817,"Cozy home with pool table, miles from NYC",None,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",45,Private room in house,2 guests,4.5,4.5,1,1125,32.0
+16324410,Private cozy room near LGA airport,East Elmhurst,2,1,1.0,"Wifi,Heating,Air conditioning",389,Private room in house,2 guests,4.5,4.62,2,25,31.0
+4553721,Art Large bedroom Williamsburg Brownstone longterm,Williamsburg,1,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",223,Private room in apartment,1 guest,4.5,4.7,1,365,60.0
+28941710,Tiny Home,Queens,2,1,1.0,"Wifi,Heating",70,Tiny house,2 guests,4.5,4.67,2,180,39.0
+9408218,Charming One Bed Room Apartment,Manhattan,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",182,Entire apartment,4 guests,4.0,4.08,1,1125,95.0
+18957522,Entire One Bedroom Apt-Great Location In Manhattan,Midtown,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",155,Entire apartment,2 guests,5.0,4.84,1,364,95.0
+14987023,Cozy 3rd floor room at Brooklyn&amp;Breakfast,Brooklyn,2,1,2.0,"Wifi,Kitchen,Heating,Air conditioning",210,Private room in apartment,2 guests,5.0,4.83,1,125,38.0
+31085554,Paradise in New York City 2,Manhattan,6,3,2.0,"Wifi,Kitchen,Heating,Air conditioning",51,Entire apartment,6 guests,5.0,4.84,2,29,27.0
+16735801,Twin bed-Close to Columbia U &amp; Central Park,Manhattan,1,1,1.0,"Wifi,Heating,Air conditioning",274,Private room in apartment,1 guest,4.5,4.71,1,7,65.0
+3534012,Best Room in Bushwick,Bushwick,1,1,1.0,"Wifi,Kitchen,Heating",218,Private room in condominium,1 guest,4.5,4.53,1,1125,39.0
+29987114,Hamilton Heights - West Harlem Studio,Manhattan,2,1,1.0,"Wifi,Heating,Air conditioning",96,Entire apartment,2 guests,5.0,4.91,2,14,100.0
+18503701,Oriental Room in Upper Manhattan near Central Park,Manhattan,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",106,Private room in apartment,3 guests,4.5,4.61,3,1125,78.0
+5567361,Modern Apt - Vibrant Neighborhood!,Flatbush,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",321,Entire apartment,4 guests,5.0,4.85,1,28,100.0
+2045727,Cozy Room in Family Home..BKLYN!!!,Brooklyn,2,1,1.0,"Wifi,Kitchen,Heating",215,Private room in apartment,2 guests,4.0,4.07,3,1125,45.0
+31085213,NY MIDTOWN DOUBLE ROOM,Hell's Kitchen,2,1,1.0,"Wifi,Heating,Air conditioning",29,Room in hotel,2 guests,4.0,4.1,1,14,90.0
+17319475,Best Deal! small room  near EWR/NYC,None,1,1,2.0,"Wifi,Kitchen,Heating,Air conditioning",326,Private room in house,1 guest,4.5,4.6,1,1125,29.0
+12433088,Simple Suite with Private Bathroom,Crown Heights,2,1,1.0,"Wifi,Heating,Air conditioning",42,Entire guest suite,2 guests,4.5,4.5,2,360,55.0
+21147249,Spacious Bedroom in Renovated Apartment- Astoria,Queens,1,1,1.0,"Wifi,Kitchen,Heating",31,Private room in apartment,1 guest,4.5,4.48,7,62,38.0
+32068817,"Cozy home with pool table, miles from NYC",None,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",45,Private room in house,2 guests,4.5,4.5,1,1125,32.0
+16324410,Private cozy room near LGA airport,East Elmhurst,2,1,1.0,"Wifi,Heating,Air conditioning",389,Private room in house,2 guests,4.5,4.62,2,25,31.0
+4553721,Art Large bedroom Williamsburg Brownstone longterm,Williamsburg,1,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",223,Private room in apartment,1 guest,4.5,4.7,1,365,60.0
+28941710,Tiny Home,Queens,2,1,1.0,"Wifi,Heating",70,Tiny house,2 guests,4.5,4.67,2,180,39.0
+9408218,Charming One Bed Room Apartment,Manhattan,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",182,Entire apartment,4 guests,4.0,4.08,1,1125,95.0
+18957522,Entire One Bedroom Apt-Great Location In Manhattan,Midtown,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",155,Entire apartment,2 guests,5.0,4.84,1,364,95.0
+14987023,Cozy 3rd floor room at Brooklyn&amp;Breakfast,Brooklyn,2,1,2.0,"Wifi,Kitchen,Heating,Air conditioning",210,Private room in apartment,2 guests,5.0,4.83,1,125,38.0
+31085554,Paradise in New York City 2,Manhattan,6,3,2.0,"Wifi,Kitchen,Heating,Air conditioning",51,Entire apartment,6 guests,5.0,4.84,2,29,27.0
+16735801,Twin bed-Close to Columbia U &amp; Central Park,Manhattan,1,1,1.0,"Wifi,Heating,Air conditioning",274,Private room in apartment,1 guest,4.5,4.71,1,7,65.0
+3534012,Best Room in Bushwick,Bushwick,1,1,1.0,"Wifi,Kitchen,Heating",218,Private room in condominium,1 guest,4.5,4.53,1,1125,39.0
+29987114,Hamilton Heights - West Harlem Studio,Manhattan,2,1,1.0,"Wifi,Heating,Air conditioning",96,Entire apartment,2 guests,5.0,4.91,2,14,100.0
+18503701,Oriental Room in Upper Manhattan near Central Park,Manhattan,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",106,Private room in apartment,3 guests,4.5,4.61,3,1125,78.0
+5567361,Modern Apt - Vibrant Neighborhood!,Flatbush,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",321,Entire apartment,4 guests,5.0,4.85,1,28,100.0
+2045727,Cozy Room in Family Home..BKLYN!!!,Brooklyn,2,1,1.0,"Wifi,Kitchen,Heating",215,Private room in apartment,2 guests,4.0,4.07,3,1125,45.0
+31085213,NY MIDTOWN DOUBLE ROOM,Hell's Kitchen,2,1,1.0,"Wifi,Heating,Air conditioning",29,Room in hotel,2 guests,4.0,4.1,1,14,90.0
+11020169,Luxurious  one bedroom apartment in a quiet area.,Baychester,2,1,1.0,"Wifi,Kitchen,Heating",223,Entire apartment,2 guests,5.0,4.82,3,1125,95.0
+31994,Room with En Suite Bathroom &amp; Deck,Brooklyn,2,1,1.0,"Wifi,Kitchen,Heating",441,Private room in apartment,2 guests,4.5,4.47,2,365,72.0
+16805869,Cozier Orchard Street Room in Lower East Side!,Manhattan,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",96,Private room in apartment,2 guests,4.0,4.17,1,22,60.0
+29987114,Hamilton Heights - West Harlem Studio,Manhattan,2,1,1.0,"Wifi,Heating,Air conditioning",96,Entire apartment,2 guests,5.0,4.91,2,14,100.0
+28941710,Tiny Home,Queens,2,1,1.0,"Wifi,Heating",70,Tiny house,2 guests,4.5,4.67,2,180,39.0
+12433088,Simple Suite with Private Bathroom,Crown Heights,2,1,1.0,"Wifi,Heating,Air conditioning",42,Entire guest suite,2 guests,4.5,4.5,2,360,55.0
+506575,Bronx Room Near Yankees + Harlem,Morris Heights,4,1,None,"Wifi,Heating,Air conditioning",207,Private room in apartment,4 guests,4.0,4.16,3,180,33.0
+18503701,Oriental Room in Upper Manhattan near Central Park,Manhattan,3,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",106,Private room in apartment,3 guests,4.5,4.61,3,1125,78.0
+10038823,"Apartment for 5, Midtown Manhattan",Midtown,5,3,1.0,"Wifi,Kitchen,Heating,Air conditioning",134,Entire apartment,5 guests,4.5,4.33,1,1125,60.0
+32068817,"Cozy home with pool table, miles from NYC",None,2,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",45,Private room in house,2 guests,4.5,4.5,1,1125,32.0
+17319475,Best Deal! small room  near EWR/NYC,None,1,1,2.0,"Wifi,Kitchen,Heating,Air conditioning",326,Private room in house,1 guest,4.5,4.6,1,1125,29.0
+5567361,Modern Apt - Vibrant Neighborhood!,Flatbush,4,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",321,Entire apartment,4 guests,5.0,4.85,1,28,100.0
+4553721,Art Large bedroom Williamsburg Brownstone longterm,Williamsburg,1,1,1.0,"Wifi,Kitchen,Heating,Air conditioning",223,Private room in apartment,1 guest,4.5,4.7,1,365,60.0
+16324410,Private cozy room near LGA airport,East Elmhurst,2,1,1.0,"Wifi,Heating,Air conditioning",389,Private room in house,2 guests,4.5,4.62,2,25,31.0
+21147249,Spacious Bedroom in Renovated Apartment- Astoria,Queens,1,1,1.0,"Wifi,Kitchen,Heating",31,Private room in apartment,1 guest,4.5,4.48,7,62,38.0
+9618986,1 Bedrom Apt(One Block From Subway),Brooklyn,2,2,1.0,"Wifi,Kitchen,Heating,Air conditioning",111,Entire house,2 guests,4.0,3.97,2,6,85.0
+16735801,Twin bed-Close to Columbia U &amp; Central Park,Manhattan,1,1,1.0,"Wifi,Heating,Air conditioning",274,Private room in apartment,1 guest,4.5,4.71,1,7,65.0
+3534012,Best Room in Bushwick,Bushwick,1,1,1.0,"Wifi,Kitchen,Heating",218,Private room in condominium,1 guest,4.5,4.53,1,1125,39.0
