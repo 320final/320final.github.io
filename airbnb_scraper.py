@@ -9,6 +9,41 @@ import csv
 
 url = "https://www.airbnb.com/api/v2/explore_tabs?_format=for_explore_search_web&auto_ib=false&client_session_id=12c460bd-4911-4462-855f-dca1778fd776&currency=USD&current_tab_id=home_tab&experiences_per_grid=20&fetch_filters=true&guidebooks_per_grid=20&has_zero_guest_treatment=true&hide_dates_and_guests_filters=false&is_guided_search=true&is_new_cards_experiment=true&is_standard_search=true&items_per_grid=18&key=d306zoyjsyarp7ifhu67rjxn52tv0t20&locale=en&metadata_only=false&query=New%20York%2C%20NY%2C%20United%20States&query_understanding_enabled=true&refinement_paths%5B%5D=%2Fhomes&satori_version=1.1.14&screen_height=969&screen_size=medium&screen_width=1114&selected_tab_id=home_tab&show_groupings=true&supports_for_you_v3=true&timezone_offset=-360&version=1.6.5"
 
+response = requests.get(url)
+print(response)
+page = urllib.request.urlopen(url)
+print(page)
+soup = bs(page, "html.parser")
+print(soup)
+
+output = "data.json"
+with open(output, 'wb') as f:
+    f.write(str(soup).encode())
+
+for i in range(0,20):
+    if i == 0:
+        response = requests.get(url)
+        print(response)
+        page = urllib.request.urlopen(url)
+        print(page)
+        soup = bs(page, "html.parser")
+        print(soup)
+
+        output = "0page.json"
+        with open(output, 'wb') as f:
+            f.write(str(soup).encode())
+        
+    else:
+        response = requests.get("https://www.airbnb.com/api/v2/explore_tabs?_format=for_explore_search_web&auto_ib=false&client_session_id=879179a4-0c6e-439d-b790-f22468c7d5a1&currency=USD&current_tab_id=home_tab&experiences_per_grid=20&federated_search_session_id=442e78a6-8898-40cd-9284-76efe5dd7147&fetch_filters=true&guidebooks_per_grid=20&has_zero_guest_treatment=true&hide_dates_and_guests_filters=false&is_guided_search=true&is_new_cards_experiment=true&is_standard_search=true&items_offset={}&items_per_grid=18&key=d306zoyjsyarp7ifhu67rjxn52tv0t20&last_search_session_id=6d9c9cdf-670d-422d-84e0-b45e0debbcc6&locale=en&metadata_only=false&place_id=ChIJOwg_06VPwokRYv534QaPC8g&query=New%20York%2C%20NY%2C%20United%20States&query_understanding_enabled=true&refinement_paths%5B%5D=%2Fhomes&s_tag=qK71Y6gK&satori_version=1.1.14&screen_height=969&screen_size=medium&screen_width=1114&search_type=pagination&section_offset=4&selected_tab_id=home_tab&show_groupings=true&supports_for_you_v3=true&timezone_offset=-360&version=1.6.5".format(i*18))
+        print(response)
+        page = urllib.request.urlopen("https://www.airbnb.com/api/v2/explore_tabs?_format=for_explore_search_web&auto_ib=false&client_session_id=879179a4-0c6e-439d-b790-f22468c7d5a1&currency=USD&current_tab_id=home_tab&experiences_per_grid=20&federated_search_session_id=442e78a6-8898-40cd-9284-76efe5dd7147&fetch_filters=true&guidebooks_per_grid=20&has_zero_guest_treatment=true&hide_dates_and_guests_filters=false&is_guided_search=true&is_new_cards_experiment=true&is_standard_search=true&items_offset={}&items_per_grid=18&key=d306zoyjsyarp7ifhu67rjxn52tv0t20&last_search_session_id=6d9c9cdf-670d-422d-84e0-b45e0debbcc6&locale=en&metadata_only=false&place_id=ChIJOwg_06VPwokRYv534QaPC8g&query=New%20York%2C%20NY%2C%20United%20States&query_understanding_enabled=true&refinement_paths%5B%5D=%2Fhomes&s_tag=qK71Y6gK&satori_version=1.1.14&screen_height=969&screen_size=medium&screen_width=1114&search_type=pagination&section_offset=4&selected_tab_id=home_tab&show_groupings=true&supports_for_you_v3=true&timezone_offset=-360&version=1.6.5".format(i*18))
+        print(page)
+        soup = bs(page, "html.parser")
+        print(soup)
+        output = "{}page.json".format(i)
+        with open(output, 'wb') as f:
+            f.write(str(soup).encode())
+
 data_dict = []
 
 for i in range(0,20):
@@ -49,5 +84,3 @@ writer = csv.DictWriter(
     "max_nights", "price"])
 writer.writeheader()
 writer.writerows(data_dict)
-printer = pprint.PrettyPrinter()
-printer.pprint(data_dict)
