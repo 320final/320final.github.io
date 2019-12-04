@@ -18,7 +18,6 @@ states = {
     'Delaware': 'ChIJO9YMTXYFx4kReOgEjBItHZQ',
     'Florida': 'ChIJvypWkWV2wYgR0E7HW9MTLvc',
     'Georgia': 'ChIJV4FfHcU28YgR5xBP7BC8hGY',
-    'Guam': 'ChIJBeB5Twbb_3sRKIbMdNKCd0s',
     'Idaho': 'ChIJ6Znkhaj_WFMRWIf3FQUwa9A',
     'Illinois': 'ChIJGSZubzgtC4gRVlkRZFCCFX8',
     'Indiana': 'ChIJHRv42bxQa4gRcuwyy84vEH4',
@@ -57,11 +56,13 @@ states = {
     'Washington': 'ChIJ-bDD5__lhVQRuvNfbGh4QpQ'
 }
 
+data_dict = []
+
 for state in states:
     id = states[state]
     state = state.replace(" ", "%20")
     print(state)
-    url = "https://www.airbnb.com/api/v2/explore_tabs?_format=for_explore_search_web&auto_ib=false&client_session_id=12c460bd-4911-4462-855f-dca1778fd776&currency=USD&current_tab_id=home_tab&experiences_per_grid=20&fetch_filters=true&guidebooks_per_grid=20&has_zero_guest_treatment=true&hide_dates_and_guests_filters=false&is_guided_search=true&is_new_cards_experiment=true&is_standard_search=true&items_per_grid=18&key=d306zoyjsyarp7ifhu67rjxn52tv0t20&locale=en&metadata_only=false&query={}%2C%20United%20States&query_understanding_enabled=true&refinement_paths%5B%5D=%2Fhomes&satori_version=1.1.14&screen_height=969&screen_size=medium&screen_width=1114&selected_tab_id=home_tab&show_groupings=true&supports_for_you_v3=true&timezone_offset=-360&version=1.6.5".format(state)
+    url = "https://www.airbnb.com/api/v2/explore_tabs?_format=for_explore_search_web&auto_ib=false&client_session_id=7a1719fb-5452-4be6-8040-45e57eddd9c8&currency=USD&current_tab_id=home_tab&experiences_per_grid=20&fetch_filters=true&guidebooks_per_grid=20&has_zero_guest_treatment=true&hide_dates_and_guests_filters=false&is_guided_search=true&is_new_cards_experiment=true&is_standard_search=true&items_per_grid=18&key=d306zoyjsyarp7ifhu67rjxn52tv0t20&locale=en&metadata_only=false&query={}%2C%20United%20States&query_understanding_enabled=true&refinement_paths%5B%5D=%2Fhomes&satori_version=1.1.14&screen_height=969&screen_size=medium&screen_width=1114&selected_tab_id=home_tab&show_groupings=true&supports_for_you_v3=true&timezone_offset=-360&version=1.6.5".format(state)
 
     for i in range(0,20):
         if i == 0:
@@ -72,37 +73,36 @@ for state in states:
             soup = bs(page, "html.parser")
             print(soup)
 
-            output = "{}0page.json".format(state)
+            output = "0{}page.json".format(state)
             with open(output, 'wb') as f:
                 f.write(str(soup).encode())
             
         else:
-            response = requests.get("https://www.airbnb.com/api/v2/explore_tabs?_format=for_explore_search_web&auto_ib=false&client_session_id=e3c3be00-6ff3-4d83-8395-80e87f0a73cd&currency=USD&current_tab_id=home_tab&experiences_per_grid=20&federated_search_session_id=0360991d-1087-4e46-a106-d5090e86351d&fetch_filters=true&guidebooks_per_grid=20&has_zero_guest_treatment=true&hide_dates_and_guests_filters=false&is_guided_search=true&is_new_cards_experiment=true&is_standard_search=true&items_offset={}&items_per_grid=18&key=d306zoyjsyarp7ifhu67rjxn52tv0t20&last_search_session_id=b58af588-7a00-48a0-b9ff-10d3c4a47a52&locale=en&metadata_only=false&place_id={}&query={}%2C%20United%20States&query_understanding_enabled=true&refinement_paths%5B%5D=%2Fhomes&s_tag=X74Q583S&satori_version=1.1.14&screen_height=969&screen_size=medium&screen_width=1114&search_type=pagination&section_offset=4&selected_tab_id=home_tab&show_groupings=true&supports_for_you_v3=true&timezone_offset=-360&version=1.6.5".format(i*18,id,state))
+            response = requests.get("https://www.airbnb.com/api/v2/explore_tabs?_format=for_explore_search_web&auto_ib=false&client_session_id=7a1719fb-5452-4be6-8040-45e57eddd9c8&currency=USD&current_tab_id=home_tab&experiences_per_grid=20&federated_search_session_id=0360991d-1087-4e46-a106-d5090e86351d&fetch_filters=true&guidebooks_per_grid=20&has_zero_guest_treatment=true&hide_dates_and_guests_filters=false&is_guided_search=true&is_new_cards_experiment=true&is_standard_search=true&items_offset={}&items_per_grid=18&key=d306zoyjsyarp7ifhu67rjxn52tv0t20&last_search_session_id=b58af588-7a00-48a0-b9ff-10d3c4a47a52&locale=en&metadata_only=false&place_id={}&query={}%2C%20United%20States&query_understanding_enabled=true&refinement_paths%5B%5D=%2Fhomes&s_tag=X74Q583S&satori_version=1.1.14&screen_height=969&screen_size=medium&screen_width=1114&search_type=pagination&section_offset=4&selected_tab_id=home_tab&show_groupings=true&supports_for_you_v3=true&timezone_offset=-360&version=1.6.5".format(i*18,id,state))
             print(response)
-            page = urllib.request.urlopen("https://www.airbnb.com/api/v2/explore_tabs?_format=for_explore_search_web&auto_ib=false&client_session_id=e3c3be00-6ff3-4d83-8395-80e87f0a73cd&currency=USD&current_tab_id=home_tab&experiences_per_grid=20&federated_search_session_id=0360991d-1087-4e46-a106-d5090e86351d&fetch_filters=true&guidebooks_per_grid=20&has_zero_guest_treatment=true&hide_dates_and_guests_filters=false&is_guided_search=true&is_new_cards_experiment=true&is_standard_search=true&items_offset={}&items_per_grid=18&key=d306zoyjsyarp7ifhu67rjxn52tv0t20&last_search_session_id=b58af588-7a00-48a0-b9ff-10d3c4a47a52&locale=en&metadata_only=false&place_id={}&query={}%2C%20United%20States&query_understanding_enabled=true&refinement_paths%5B%5D=%2Fhomes&s_tag=X74Q583S&satori_version=1.1.14&screen_height=969&screen_size=medium&screen_width=1114&search_type=pagination&section_offset=4&selected_tab_id=home_tab&show_groupings=true&supports_for_you_v3=true&timezone_offset=-360&version=1.6.5".format(i*18,id,state))
+            page = urllib.request.urlopen("https://www.airbnb.com/api/v2/explore_tabs?_format=for_explore_search_web&auto_ib=false&client_session_id=7a1719fb-5452-4be6-8040-45e57eddd9c8&currency=USD&current_tab_id=home_tab&experiences_per_grid=20&federated_search_session_id=0360991d-1087-4e46-a106-d5090e86351d&fetch_filters=true&guidebooks_per_grid=20&has_zero_guest_treatment=true&hide_dates_and_guests_filters=false&is_guided_search=true&is_new_cards_experiment=true&is_standard_search=true&items_offset={}&items_per_grid=18&key=d306zoyjsyarp7ifhu67rjxn52tv0t20&last_search_session_id=b58af588-7a00-48a0-b9ff-10d3c4a47a52&locale=en&metadata_only=false&place_id={}&query={}%2C%20United%20States&query_understanding_enabled=true&refinement_paths%5B%5D=%2Fhomes&s_tag=X74Q583S&satori_version=1.1.14&screen_height=969&screen_size=medium&screen_width=1114&search_type=pagination&section_offset=4&selected_tab_id=home_tab&show_groupings=true&supports_for_you_v3=true&timezone_offset=-360&version=1.6.5".format(i*18,id,state))
             print(page)
             soup = bs(page, "html.parser")
             print(soup)
             output = "{}{}page.json".format(i,state)
             with open(output, 'wb') as f:
                 f.write(str(soup).encode())
-
-    data_dict = []
-
+    
     for i in range(0,20):
         print(i)
-        with open('{}page.json'.format(i), 'r', encoding="utf8") as file:
+        with open('{}{}page.json'.format(i,state), 'r', encoding="utf8") as file:
             data = json.load(file)
 
         print(data)
         if i == 0:
             print("yo")
-            homes = data.get('explore_tabs')[0].get('sections')[1].get('listings')
+            homes = data.get('explore_tabs')[0].get('sections')[0].get('listings')
         else:
             homes = data.get('explore_tabs')[0].get('sections')[0].get('listings')
             print("fo")
         for home in homes:
             obj = {
+                "state": "{}".format(state),
                 "room_id": "{}".format(str(home.get('listing').get('id'))),
                 "name": "{}".format(str(home.get('listing').get('name'))),
                 "neighborhood": "{}".format(home.get('listing').get('neighborhood')),
@@ -122,7 +122,7 @@ for state in states:
             data_dict.append(obj)
 f = open("sample.csv", "w", encoding='utf-8')
 writer = csv.DictWriter(
-    f, fieldnames=["room_id", "name", "neighborhood", "person_cap", "bedrooms", "bathrooms",
+    f, fieldnames=["state","room_id", "name", "neighborhood", "person_cap", "bedrooms", "bathrooms",
     "amenities", "reviews", "prop_type", "guests", "star", "avg_rating", "min_nights",
     "max_nights", "price"])
 writer.writeheader()
