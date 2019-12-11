@@ -105,7 +105,7 @@ for state in states:
                 "state": "{}".format(state),
                 "room_id": "{}".format(str(home.get('listing').get('id'))),
                 "name": "{}".format(str(home.get('listing').get('name'))),
-                "neighborhood": "{}".format(home.get('listing').get('neighborhood')),
+                "city": "{}".format(home.get('listing').get('city')),
                 "person_cap": "{}".format(home.get('listing').get('person_capacity')),
                 "bedrooms": "{}".format(home.get('listing').get('beds')),
                 "bathrooms": "{}".format(home.get('listing').get('bathrooms')),
@@ -122,7 +122,7 @@ for state in states:
             data_dict.append(obj)
 f = open("sample.csv", "w", encoding='utf-8')
 writer = csv.DictWriter(
-    f, fieldnames=["state","room_id", "name", "neighborhood", "person_cap", "bedrooms", "bathrooms",
+    f, fieldnames=["state","room_id", "name", "city", "person_cap", "bedrooms", "bathrooms",
     "amenities", "reviews", "prop_type", "guests", "star", "avg_rating", "min_nights",
     "max_nights", "price"])
 writer.writeheader()
