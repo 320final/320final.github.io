@@ -117,13 +117,15 @@ for state in states:
                 "avg_rating": "{}".format(home.get('listing').get('avg_rating')),
                 "min_nights": "{}".format(home.get('listing').get('min_nights')),
                 "max_nights": "{}".format(home.get('listing').get('max_nights')),
-                "price": "{}".format(home.get('pricing_quote').get('rate').get('amount'))
+                "price": "{}".format(home.get('pricing_quote').get('rate').get('amount')),
+                "lat": "{}".format(home.get('listing').get('lat')),
+                "long": "{}".format(home.get('listing').get('lng'))
             }
             data_dict.append(obj)
 f = open("sample.csv", "w", encoding='utf-8')
 writer = csv.DictWriter(
     f, fieldnames=["state","room_id", "name", "city", "person_cap", "bedrooms", "bathrooms",
     "amenities", "reviews", "prop_type", "guests", "star", "avg_rating", "min_nights",
-    "max_nights", "price"])
+    "max_nights", "price", "lat", 'long'])
 writer.writeheader()
 writer.writerows(data_dict)
