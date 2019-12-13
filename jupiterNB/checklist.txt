@@ -1,4 +1,4 @@
-Sort out the enviorment mess. I can't run your code on docket. Mostly likely due to requirments have some windows specfic directory
+Sort out the enviorment mess. I can't run your code on docker. Mostly likely due to requirments as some seem to have windows specfic files
 
 
 In the pandas series need to change the name of %20 like New%20York to New York. Tried to str.replace() did not work. Think it is some type of dtype think
