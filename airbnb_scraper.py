@@ -120,13 +120,14 @@ for state in states:
                 "price": "{}".format(home.get('pricing_quote').get('rate').get('amount')),
                 "lat": "{}".format(home.get('listing').get('lat')),
                 "long": "{}".format(home.get('listing').get('lng')),
-                "price_factor": "{}".format(home.get('pricing_quote').get('weekly_price_factor'))
+                "price_factor": "{}".format(home.get('pricing_quote').get('weekly_price_factor')),
+                "super_host": "{}".format(home.get('listing').get('is_superhost'))
             }
             data_dict.append(obj)
 f = open("sample.csv", "w", encoding='utf-8')
 writer = csv.DictWriter(
     f, fieldnames=["state","room_id", "name", "city", "person_cap", "bedrooms", "bathrooms",
     "amenities", "reviews", "prop_type", "guests", "star", "avg_rating", "min_nights",
-    "max_nights", "price", "lat", 'long', 'price_factor'])
+    "max_nights", "price", "lat", 'long', 'price_factor','super_host'])
 writer.writeheader()
 writer.writerows(data_dict)
