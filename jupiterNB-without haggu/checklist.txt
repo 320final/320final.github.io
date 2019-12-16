@@ -1,0 +1,27 @@
+Sort out the enviorment mess. I can't run your code on docker. Mostly likely due to requirments as some seem to have windows specfic files
+
+
+In the pandas series need to change the name of %20 like New%20York to New York. Tried to str.replace() did not work. Think it is some type of dtype think
+
+Graphs (1 done out of 4) 
+
+Price vs state - done
+
+Rating vs state - is useless, all of them have the same average around 4.8 4.9 
+
+possible ones 
+
+different types of beds like 2 bed, 3 bed -> seems not needed as we are consedering sample and not the entire thing
+
+
+ML Stuff 
+
+Line Regreession 
+
+y = price 
+x1 = state
+x2 = bed number 
+x3 = # nights 
+
+
+meine sone jaa raha hu 
